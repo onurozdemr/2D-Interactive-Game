@@ -27,15 +27,18 @@ INSTALLATION AND RUNNING
 ------------------------
 [Setup libGDX first](https://libgdx.com/wiki/start/setup)
 
-```git clone https://github.com/Sardter/Bilcan-t.git``` 
-[Our repository is here](https://github.com/Sardter/Bilcan-t.git)
-
 Checkout to our master branch by writing
 ```
 git checkout master
 ``` 
-
 to the terminal.
-
 After cloning the repository import it to your favorite development environment and run it!
+
+Contributors are:
+```
+https://github.com/Sardter
+https://github.com/borahll
+https://github.com/berksara145
+
+``` 
 
