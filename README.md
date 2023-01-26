@@ -1,3 +1,10 @@
+Contributors are the esteemed:
+```
+https://github.com/Sardter
+https://github.com/borahll
+https://github.com/berksara145
+```
+
 # Bilcan-t
 CONTENTS OF THIS FILE
 * Introduction
@@ -34,10 +41,5 @@ git checkout master
 to the terminal.
 After cloning the repository import it to your favorite development environment and run it!
 
-Contributors are the esteemed:
-```
-https://github.com/Sardter
-https://github.com/borahll
-https://github.com/berksara145
-``` 
+ 
 
